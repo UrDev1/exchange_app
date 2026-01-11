@@ -44,7 +44,7 @@
 ## 3. Технологии
 
 ### Фронтенд:
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3
 - Без фреймворков или с Vue.js/React для простоты
 - Fetch API для запросов
 
